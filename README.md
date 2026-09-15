@@ -8,6 +8,7 @@ The original console implementation of a “game within a game”: players attem
 
 This Java version is the logic-first foundation for the native iOS and cross-platform Tauri renditions. It concentrates the rules, difficulty system, word datasets, CPU behavior, and replay loop in a terminal experience that makes every state transition visible.
 
+![Image](<images/image1.png>)
 ## Gameplay loop
 
 ```text
